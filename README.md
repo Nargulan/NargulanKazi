@@ -1,0 +1,2 @@
+# NargulanKazi
+homework 1
